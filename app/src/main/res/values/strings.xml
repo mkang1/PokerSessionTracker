@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Poker Session Tracker</string>
+    <string name="buyin">Buyin Amount:</string>
+    <string name="dollarsign">$</string>
+    <string name="zero">0</string>
+    <string name="cashout">Cashed Out:</string>
+</resources>
